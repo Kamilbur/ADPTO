@@ -1,0 +1,12 @@
+
+# Sensible files for 2k
+python main.py 2k graph/b20 graph/e10 graph/e20 graph/e40 graph/e5 graph/m20 graph/m30 graph/m40 graph/p20 graph/p35 graph/r30_01 graph/s25 graph/s50 graph/s500
+
+# Sensible files for 1.6k
+python main.py 1.6k graph/b20 graph/b30 graph/e10 graph/e20 graph/e40 graph/e5 graph/m20 graph/m30 graph/m40 graph/m50 graph/p20 graph/p35 graph/p60 graph/r30_01 graph/r30_05 graph/r50_001 graph/r50_01 graph/r50_05 graph/s25 graph/s50 graph/s500
+
+# Sensible files for 1.4k
+ python main.py 1.4k graph/b100 graph/b20 graph/b30 graph/e10 graph/e150 graph/e20 graph/e40 graph/e5 graph/m100 graph/m20 graph/m30 graph/m40 graph/m50 graph/p150 graph/p20 graph/p35 graph/p60 graph/r100_005 graph/r100_01 graph/r30_01 graph/r30_05 graph/r50_001 graph/r50_01 graph/r50_05 graph/s25 graph/s50 graph/s500
+
+# Sensible files for kern - still cannot run k330_b k330_c
+python main.py kern graph/b100 graph/b20 graph/b30 graph/e10 graph/e150 graph/e20 graph/e40 graph/e5 graph/k330_a graph/m100 graph/m20 graph/m30 graph/m40 graph/m50 graph/p150 graph/p20 graph/p35 graph/p60 graph/r100_005 graph/r100_01 graph/r30_01 graph/r30_05 graph/r50_001 graph/r50_01 graph/r50_05 graph/s25 graph/s50 graph/s500
