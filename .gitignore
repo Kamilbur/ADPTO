@@ -1,5 +1,15 @@
-# Own ignores
+###############
+# Own ignores #
+###############
+
+# solutions saved for later
+solutions
+
+# obj files
 *.o
 
+# python caches
 __pycache__
+
+# test cases
 graph
