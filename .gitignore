@@ -1,2 +1,5 @@
+# Own ignores
+*.o
+
 __pycache__
 graph
