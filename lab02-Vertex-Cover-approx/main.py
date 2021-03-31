@@ -114,9 +114,6 @@ def VC_annealing(G):
 
 if __name__ == '__main__':
 
-    if len(sys.argv) < 2:
-        input_error()
-
     for i in range(1, len(sys.argv)):
         filename = sys.argv[i]
         print(filename)
