@@ -2,6 +2,9 @@
 # Own ignores #
 ###############
 
+# shared obj files
+*.so
+
 # solutions saved for later
 solutions
 
